@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8126d&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+Name+is+Aléxia+Diniz;I'm+24+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-  Apenas uma dev backend plena.
-   I love data and code
-   I love traveling and good food.
+  A busca para a plenitude. 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="lexy-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
